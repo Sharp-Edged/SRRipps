@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 69
+  },
+  "m_Name": "",
+  "enem": {
+    "m_FileID": 0,
+    "m_PathID": 5
+  },
+  "fr": -4.32,
+  "sr": 4.58,
+  "eneme": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "fff": {
+    "m_FileID": 2,
+    "m_PathID": 3
+  },
+  "ah": {
+    "m_FileID": 4,
+    "m_PathID": 3
+  },
+  "player": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "rotate": 15.0
+}
